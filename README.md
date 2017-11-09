@@ -17,7 +17,7 @@ npm run build
 
 ## Author
 
-**Brucey2017**
+**Brucey**
 
 ## License
 
