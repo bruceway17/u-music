@@ -1,6 +1,10 @@
 # u-music
 
-> 基于Vue2.x开发的移动端音乐播放器
+> 一款基于Vue2.x开发的移动端音乐播放器
+
+## 效果图展示
+
+![image](https://github.com/bruceway17/u-music/blob/master/static/2017-11-26_all.png)
 
 ## Build Setup
 
